@@ -30,6 +30,6 @@
     "gulp-uglifycss": "^1.0.8",
     "gulp-util": "^3.0.8",
     "minimist": "^1.2.0",
-    "reload": "^3.1.0"
+    "reload": "^3.2.0"
   }
 }
